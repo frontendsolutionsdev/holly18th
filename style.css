@@ -10,7 +10,7 @@
 }
 
 :root {
-  --primary: #ff0000;
+  --primary: #f08181;
   --white: #ffffff;
   --bg: #ffe4e4;
 }
@@ -267,6 +267,6 @@ body {
 .countup span[class*="timeRef"] {
   border-radius: 0 10px 10px 0;
   margin-left: 0;
-  background: #ff0000;
+  background: #e78484;
   color: rgb(255, 255, 255);
 }
